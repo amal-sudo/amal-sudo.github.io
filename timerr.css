@@ -1,0 +1,151 @@
+body{
+    background-color:whitesmoke;
+}
+*{
+    margin-top: 0%;
+}
+
+.container{
+    text-align: center ;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    border-radius: 7px;
+    width: 400px;
+    height: 180px;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-top: 30px;
+    display: inline-flex;
+    background-color: white;
+    box-shadow: 5px 10px #888888;
+}
+
+.timer1{
+    padding: 30px;
+    padding-bottom: 50px;
+    width: 90px;
+    height: 20px;
+    font-size: 40px;
+    background-color:#ffd700;
+    border-radius: 7px;
+    border: 3px solid black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:lighter;
+}
+
+button{
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 0%;
+
+}
+
+.btn1{
+    background-color: #d700ff;
+}
+
+.btn1 :hover{
+    background-color: purple;
+    border-radius: 50%;
+}
+
+.btn2{
+    background-color: #00ffd7;
+}
+.btn2 :hover{
+    background-color: green;
+    border-radius: 50%;
+}
+
+.btn3{
+    padding: 5px;
+    border:5px black solid;
+}
+.btn3{
+    background-color: #d700ff;
+}
+
+.btn3 :hover{
+    background-color: purple;
+    border-radius: 50%;
+}
+
+
+
+p{
+    border:3px;
+}
+
+.shapes1{
+    
+    display: inline-block;
+
+}
+
+.shapes2{
+    margin-left: 930px;
+    display: inline-block;
+
+}
+.square{
+    width: 80px;
+    height: 80px;
+    border: 3px solid black;
+    margin-left: 170px;
+    background-color:#ffd700;
+    box-shadow: 5px 10px #888888;
+    
+}
+
+.circle{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-color: #d700ff;
+    margin-left: 210px;
+    box-shadow: 5px 10px #888888;
+}
+
+.rectangle{
+    height: 70px;
+    width: 190px;
+    border: 3px solid black;
+    background-color: #00ffd7;
+    margin-right: 30px;
+    box-shadow: 5px 10px #888888;
+}
+
+.square1{
+    width: 80px;
+    height: 80px;
+    border: 3px solid black;
+    margin-left: 60px;
+    background-color:#ffd700;
+    box-shadow: 5px 10px #888888;
+    
+}
+
+.circle1{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-color: #d700ff;
+    margin-left: 10px ;
+    box-shadow: 5px 10px #888888;
+}
+
+.rectangle1{
+    height: 70px;
+    width: 190px;
+    border: 3px solid black;
+    background-color: #00ffd7;
+    margin-left: 120px ;
+    box-shadow: 5px 10px #888888;
+    
+}
